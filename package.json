@@ -1,0 +1,31 @@
+{
+  "name": "parcel-react-boilerplate",
+  "version": "0.1.0",
+  "description": "Minimal React Boilerplate with Parcel",
+  "main": "index.js",
+  "dependencies": {
+    "react": "16.5.2",
+    "react-dom": "16.5.2",
+    "node-sass": "4.9.3"
+  },
+  "devDependencies": {
+    "babel-core": "6.26.3",
+    "babel-preset-env": "1.7.0",
+    "babel-preset-react": "6.24.1",
+    "parcel-bundler": "1.10.3"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "parcel src/index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aledileo17/parcel-react-boilerplate.git"
+  },
+  "author": "ADL",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aledileo17/parcel-react-boilerplate/issues"
+  },
+  "homepage": "https://github.com/aledileo17/parcel-react-boilerplate#readme"
+}
